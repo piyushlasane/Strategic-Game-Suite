@@ -1,3 +1,7 @@
+## Strategic Game Suite
+
+### Code
+```java
 import java.util.*;
 
 public class RockPaperScissor {
@@ -30,3 +34,4 @@ public class RockPaperScissor {
         } else System.out.println("Match Draw");
     }
 }
+```
